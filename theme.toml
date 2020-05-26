@@ -11,5 +11,5 @@ features = ["blog", "Clean and minimal", "Responsive", "Social media links", "Sy
 min_version = "0.41"
 
 [author]
-  name = "Sai Karthik"
+  name = "Karthik"
   homepage = "https://kskarthik.gitlab.io"
